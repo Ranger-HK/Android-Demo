@@ -1,13 +1,12 @@
 import React from "react";
 import { View,Text } from "react-native";
 
-function Abc(){
+function C(){
     return(
         <View>
-            <Text>Hello How Are You</Text>
+           <Text>Good Morning</Text>
         </View>
-
-    );
+    )
 }
 
-export default Abc;
+export default C;
